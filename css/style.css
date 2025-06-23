@@ -1,0 +1,47 @@
+.matangi-bold {
+    font-family: "Matangi", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.matangi-normal {
+    font-family: "Matangi", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.matangi-small {
+    font-family: "Matangi", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.navbar {
+    border-bottom: solid rgba(151, 30, 29, 0.7);
+}
+
+.navbar-logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -80px;
+    z-index: 1040;
+}
+
+.nav-link {
+    padding: 0.5rem 1rem;
+}
+
+.navbar-nav-left,
+.navbar-nav-right {
+    display: flex;
+    gap: 1rem;
+}
+
+footer {
+    background-color: #1d2024;
+    border-top: solid rgba(148, 148, 148, 0.7);
+}
