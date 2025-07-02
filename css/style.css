@@ -51,6 +51,10 @@
     }
 }
 
+.social-link {
+    color: #971E1D;
+}
+
 footer {
     background-color: #1d2024;
     border-top: solid rgba(148, 148, 148, 0.7);
