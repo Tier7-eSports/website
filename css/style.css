@@ -20,7 +20,7 @@
 }
 
 .navbar {
-    border-bottom: solid rgba(151, 30, 29, 0.7);
+    border-bottom: solid #971e1d;
 }
 
 .navbar-logo {
@@ -39,6 +39,10 @@
 .navbar-nav-right {
     display: flex;
     gap: 1rem;
+}
+
+.youtube-video {
+    border: solid #971e1d;
 }
 
 footer {
