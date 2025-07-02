@@ -45,6 +45,12 @@
     border: solid #971e1d;
 }
 
+@media only screen and (max-width:1026px) {
+    .youtube-video {
+        visibility: hidden;
+    }
+}
+
 footer {
     background-color: #1d2024;
     border-top: solid rgba(148, 148, 148, 0.7);
